@@ -3,6 +3,7 @@
   "version": 2,
   "projects": {
     "smth": "apps/smth",
-    "smth-e2e": "apps/smth-e2e"
+    "smth-e2e": "apps/smth-e2e",
+    "storybook": "libs/storybook"
   }
 }

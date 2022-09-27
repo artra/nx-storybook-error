@@ -1,8 +1,10 @@
 import type { Story, Meta } from '@storybook/react';
+import {Storybook} from "@new2/storybook";
 
 const Comp = () => {
-  return <>test</>
+  return <Storybook />
 }
+
 
 const StoryMeta: Meta = {
   component: Comp,
